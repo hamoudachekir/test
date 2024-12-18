@@ -1,0 +1,28 @@
+{
+  "albums": [
+    {
+      "id": "7d6b",
+      "title": "Grand électroménager",
+      "creationDate": "2000-08-23",
+      "archived": 2,
+      "coverPicture": "assets/1.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": "4601",
+      "title": "Petit électroménager",
+      "creationDate": "2001-09-24",
+      "archived": 1,
+      "coverPicture": "assets/2.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": "3801",
+      "title": "Produits informatiques",
+      "creationDate": "2002-10-25",
+      "archived": 0,
+      "coverPicture": "assets/3.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}
